@@ -27,12 +27,13 @@ I have 4 onsite servers, and each is running one or more services:
 
 ## automation host ##
 
-- [Nautobot](nautobot/README.md)
+- [Keycloak](keycloak/README.md)
 - Docker
   - pi-hole
   - [ceos router and switch images](ceos/README.md)
 - SMTP: postfix
 - IMAP: dovecot
+- (deprecated) [Nautobot](nautobot/README.md)
 
 ## nube ##
 
